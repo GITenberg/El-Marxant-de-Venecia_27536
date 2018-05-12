@@ -1,0 +1,44 @@
+_repo: El-Marxant-de-Venecia_27536
+_version: 0.1.0
+alternative_title: The Merchant of Venice. Catalan
+contributor:
+  translator:
+    agent_name: Puig i Ferreter, Joan
+    aliases:
+    - Ferreter, Joan Puig i
+    - Ferreter, Juan Puig y
+    birthdate: 1882
+    deathdate: 1956
+    gutenberg_agent_id: '32753'
+    url: http://www.gutenberg.org/2009/agents/32753
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_issued: '2008-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27536'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jews -- Italy -- Drama'
+- !lcsh 'Moneylenders -- Drama'
+- !lcsh 'Venice (Italy) -- Drama'
+- !lcc 'PR'
+- !lcsh 'Comedies'
+title: El Marxant de Venecia
+url: http://www.gutenberg.org/ebooks/27536
